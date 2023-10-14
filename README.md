@@ -1,8 +1,7 @@
 <img align="right" alt="gif" src="https://media.tenor.com/71NBbJbImX0AAAAi/sonic-sonic-the-hedgehog.gif"/>
 
-<h1 align="center">
-  Bem vindos(as) ao meu perfil!
-<h1/> 
+# Bem vindos(as) ao meu perfil!
+ 
   
 ### Sobre mim
 <p align="justify">
