@@ -1,4 +1,4 @@
-<img align="right" alt="gif" src="https://media.tenor.com/71NBbJbImX0AAAAi/sonic-sonic-the-hedgehog.gif"/>
+<img align="right" alt="gif" src="https://64.media.tumblr.com/524643d83a81c9cbcc55dc2f94a474c8/tumblr_muy14dY7mN1qkye9go1_400.gifv"/>
 
 # Bem vindos(as) ao meu perfil!
  
