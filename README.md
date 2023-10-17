@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/JP328"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP328&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP328&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP328&show_icons=true&theme=dracula"/>
 </div>
     
 
